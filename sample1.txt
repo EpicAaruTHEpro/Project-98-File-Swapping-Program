@@ -1,0 +1,2 @@
+Math Homework:
+Ax^2+Bx+C=0
